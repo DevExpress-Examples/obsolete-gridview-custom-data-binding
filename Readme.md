@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [DataObject.cs](./CS/Models/DataObject.cs) (VB: [DataObject.vb](./VB/Models/DataObject.vb))
+* [GridViewPartial.ascx](./CS/Views/Home/GridViewPartial.ascx) (VB: [GridViewPartial.ascx](./VB/Views/Home/GridViewPartial.ascx))
+* [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
+<!-- default file list end -->
 # OBSOLETE: A possible implementation of IListServer interface to achieve Server Mode functionality in the GridView extension
 
 
