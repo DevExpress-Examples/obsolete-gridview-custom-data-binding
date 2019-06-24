@@ -7,6 +7,9 @@
 * [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
 <!-- default file list end -->
 # OBSOLETE: A possible implementation of IListServer interface to achieve Server Mode functionality in the GridView extension
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3027)**
+<!-- run online end -->
 
 
 <p><strong>Starting with version 12.2, this approach is obsolete.</strong> It is necessary to use the <a href="http://documentation.devexpress.com/#AspNet/CustomDocument14321"><u>Custom Data Binding</u></a> instead.<br />
