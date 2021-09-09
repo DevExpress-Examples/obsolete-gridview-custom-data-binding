@@ -2,5 +2,5 @@
 
 The following Code Central examples illustrate this feature in action:
 
-- <a href="https://www.devexpress.com/Support/Center/p/E4394">E4394: How to implement a simple custom binding scenario for GridView</a>
-- <a href="https://www.devexpress.com/Support/Center/p/E4398">E4398: How to implement a custom binding scenario for two GridViews used in a master-detail relationship with paging and sorting operations</a>
+- <a href="https://supportcenter.devexpress.com/ticket/details/e4394/how-to-implement-a-simple-custom-binding-scenario-for-gridview">E4394: How to implement a simple custom binding scenario for GridView</a>
+- <a href="https://supportcenter.devexpress.com/ticket/details/e4398/how-to-create-a-master-detail-gridview-with-paging-and-sorting-using-custom-data-binding">E4398: How to implement a custom binding scenario for two GridViews used in a master-detail relationship with paging and sorting operations</a>
